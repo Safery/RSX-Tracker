@@ -1,2 +1,4 @@
-# RSX-Tracker
-RSX Tracker is a GPS tracker built using pure Python + MatPlotLib.
+## Basic Description
+RSX Tracker is a pure python script that uses the MatPlotLib module to read GPS data and live update it on a GUI.
+
+## How does it work?
